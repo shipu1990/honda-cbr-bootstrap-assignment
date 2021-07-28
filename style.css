@@ -1,0 +1,25 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+header {
+  background-color: #264653;
+}
+.btn-color {
+  background-color: #e76f51;
+}
+.secondary-color {
+  color: #e76f51;
+}
+.grayscale {
+  filter: grayscale(100%);
+}
+.accordion-button:focus {
+  border: none;
+  box-shadow: none;
+}
+.accordion-button:not(.collapsed) {
+  border: none;
+  box-shadow: none;
+  color: black;
+  background-color: white;
+}
